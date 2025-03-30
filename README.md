@@ -4,3 +4,5 @@ I present a novel approach that integrates reinforcement learning and dynamic pr
 Theoretically, an RL policy network is designed to learn optimal decision-making via policy gradients, effectively guiding portfolio selection. Practically, the strategy is tested over a substantial historical period, simulating real trading scenarios, which makes it relevant for both academic research and real-world portfolio management.
 The process is broken down into clear, step-by-step stages - from data preparation and signal generation to policy training - making it straightforward to understand and implement. 
 Finally, this method provides a practical, efficient framework for navigating complex market dynamics with state-based decisions - offering valuable insights for researchers and actionable strategies for investors.
+
+For detail, see my medium papers: https://medium.com/@datalev
